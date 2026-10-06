@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "yrvt-portfolio",
+    "nome": "yrvt.com.br",
+    "emoji": "🌐",
+    "repo": null,
+    "demo": "https://yrvt.com.br",
+    "resumo": "Meu portfólio em Next.js, com visual cyberpunk, painel admin próprio, blog e formulário ligado a uma API de contato com anti-spam.",
+    "descricao": "Portfólio pessoal feito em Next.js com conteúdo editável por um painel admin (NextAuth + Prisma), blog e mini-games no navegador. Roda na minha VPS com Nginx e PM2, e o formulário de contato fala com uma API própria em Flask.",
+    "stack": ["Next.js", "React", "TypeScript", "Prisma", "Nginx"],
+    "destaques": ["Painel admin para editar o conteúdo", "Blog integrado", "Deploy próprio em VPS"],
+    "imagem": null,
+    "status": "ativo",
+    "destaque": true,
+    "ordem": 1
+  },
+  {
+    "slug": "mira-personalizada",
+    "nome": "MiraPersonalizada",
+    "emoji": "🎯",
+    "repo": "yRvtt/MiraPersonalizada",
+    "demo": null,
+    "resumo": "Mira sobreposta para jogos no Windows, ajustável em tempo real, com filtro de tela para enxergar melhor em cenas escuras.",
+    "descricao": "Overlay de mira que fica sempre no centro da tela, com formato, tamanho, cor, espessura e opacidade ajustáveis por sliders. Inclui um filtro de tela para cenas escuras e salva a configuração sozinho.",
+    "stack": ["Python", "PyQt5", "Windows"],
+    "destaques": ["Ajuste em tempo real", "Filtro para cenas escuras", "Configuração salva automaticamente"],
+    "imagem": "mira.png",
+    "status": "ativo",
+    "destaque": true,
+    "ordem": 2
+  },
+  {
+    "slug": "discord-cleanser",
+    "nome": "DiscordCleanser",
+    "emoji": "🧹",
+    "repo": "yRvtt/DiscordCleanser",
+    "demo": null,
+    "resumo": "Ferramenta em Python para limpar as próprias mensagens e DMs do Discord.",
+    "descricao": "Fora dos destaques por decisão do autor.",
+    "stack": ["Python"],
+    "destaques": [],
+    "imagem": "discord.png",
+    "status": "ativo",
+    "destaque": false,
+    "ordem": 99
+  }
+]

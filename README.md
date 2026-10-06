@@ -17,32 +17,35 @@
 ---
 
 ### 👋 Sobre mim
-
-- 💻 Desenvolvedor **front-end** focado em interfaces premium, automações e bots.
-- 🛠️ Cuido do projeto de ponta a ponta: da interface ao deploy em **VPS Linux com Nginx e Docker**.
-- 🌐 Meu portfólio e minha API de contato rodam em infraestrutura própria em [yrvt.com.br](https://yrvt.com.br).
-- 📫 Fale comigo: **contato@yrvt.com.br**
+<!-- SOBRE:INICIO -->
+- 💻 Desenvolvedor **front-end** de 23 anos, com experiência na **CWB Games Estúdio** e em freelances.
+- 🤖 Gosto de **automações e bots**: Discord, Telegram, scrapers e integrações.
+- 🛠️ Cuido do projeto de ponta a ponta: da interface ao deploy em **VPS Linux com Nginx**.
+- 📫 Fale comigo: **contato@yrvt.com.br** ou pelo site [yrvt.com.br](https://yrvt.com.br)
+<!-- SOBRE:FIM -->
 
 ---
 
 ### 🚀 Projetos em destaque
 
+<!-- PROJETOS:INICIO -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/yRvtt/yrvt.com.br">🌐 yrvt.com.br</a></h4>
-      <p>Meu portfólio: HTML, CSS e JavaScript puros, visual cyberpunk/glassmorphism e formulário de contato integrado a uma API própria em Flask com anti-spam.</p>
+      <h4><a href="https://yrvt.com.br">🌐 yrvt.com.br</a></h4>
+      <p>Meu portfólio em Next.js, com visual cyberpunk, painel admin próprio, blog e formulário ligado a uma API de contato com anti-spam.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
       </p>
       <a href="https://yrvt.com.br"><b>Ver ao vivo →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/yRvtt/MiraPersonalizada">🎯 MiraPersonalizada</a></h4>
-      <p>Mira sobreposta para jogos no Windows, com estilos, cores e tamanhos ajustáveis em tempo real, mais um filtro de tela para enxergar melhor em cenas escuras.</p>
+      <p>Mira sobreposta para jogos no Windows, ajustável em tempo real, com filtro de tela para enxergar melhor em cenas escuras.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=qt&logoColor=white" />
@@ -52,15 +55,18 @@
     </td>
   </tr>
 </table>
+<!-- PROJETOS:FIM -->
 
 ---
 
 ### 💻 Tecnologias & Ferramentas
+<!-- STACK:INICIO -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,nodejs,react,mysql,postgres,sqlite,mongodb,nginx,linux,docker,git,github,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,flask,prisma,sqlite,mongodb,nginx,linux,cloudflare,git,github" />
   </a>
 </p>
+<!-- STACK:FIM -->
 
 ### 📊 Minhas Estatísticas
 <div align="center">
